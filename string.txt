@@ -1,0 +1,4 @@
+home.navigation.title	Welcome
+home.signin	Sign In
+home.signup	Sign Up
+home.tabbar.title	Home
